@@ -1,0 +1,15 @@
+# Don't track node dependencies
+node_modules/
+
+# Don't track uploaded resumes or user files
+uploads/
+
+# Don't track environment configuration
+.env
+
+# Optional: Log files
+*.log
+
+# Optional: OS-specific or IDE files
+.DS_Store
+.vscode/
